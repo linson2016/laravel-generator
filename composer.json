@@ -14,7 +14,7 @@
     "require": {
         "laravel/framework": "^5.5",
         "barryvdh/laravel-ide-helper": "^2.4",
-        "doctrine/dbal": "^2.7",
+        "doctrine/dbal": "^2.5",
         "prettus/l5-repository": "^2.6"
     },
     "require-dev": {
